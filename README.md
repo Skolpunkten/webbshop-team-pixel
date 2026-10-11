@@ -1,2 +1,13 @@
-# webbshop-team-pixel
-Webbshop – Team Pixel
+# Webbshop – Team Pixel
+
+## Gruppen
+
+- Ebba Lund
+- Leo Mohammed
+- Alice Forsberg
+
+## Att göra
+
+- [ ] Produktlista
+- [ ] Varukorg
+- [ ] Kassa
